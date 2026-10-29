@@ -1,0 +1,17 @@
+.ls-wide {
+    letter-spacing: 2px;
+}
+
+.ratio-list .bg-light,
+.pub-list .bg-light {
+    background-color: #f1f1f1 !important;
+    border: none;
+}
+
+.achievements-hero-flex {
+    background-color: #f1f1f1 !important;
+    display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
